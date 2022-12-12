@@ -1,6 +1,5 @@
 body
 {
-    background-position: center;
     background-size: cover;
 }
 .heading{
@@ -23,4 +22,13 @@ body
     background-color: blue;
 }
 
-
+h4
+{
+    background-color: grey;
+    width: 100%;
+    margin-bottom: 0px;
+    color: white;
+    line-height: 2;
+    position: sticky;
+    bottom: 0px;
+}
