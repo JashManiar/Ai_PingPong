@@ -22,13 +22,19 @@ body
     background-color: blue;
 }
 
-h4
+.credits
 {
     background-color: grey;
     width: 100%;
     margin-bottom: 0px;
     color: white;
     line-height: 2;
-    position: sticky;
-    bottom: 0px;
+    position: absolute;
+    bottom: 0;
+}
+
+canvas{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px white;
+    border: 2px solid white;
 }
